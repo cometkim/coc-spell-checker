@@ -4,6 +4,7 @@ coverage/*
 settingsViewer/*
 node_modules
 temp
+*.log
 *.vsix
 *.cpuprofile
 server/*.js.map
